@@ -35,7 +35,7 @@ the data.
 * `B` [Linked List](src/data-structures/linked-list)
 * `B` [Doubly Linked List](src/data-structures/doubly-linked-list)
 * `B` [Queue](src/data-structures/queue)
-* `B` [Stack](src/data-structures/stack)
+* `B` [Stack](src/data-structures/stack) ✅ (hint: LIFO - Last In First Out)
 * `B` [Hash Table](src/data-structures/hash-table)
 * `B` [Heap](src/data-structures/heap) - max and min heap versions
 * `B` [Priority Queue](src/data-structures/priority-queue)
